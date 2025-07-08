@@ -66,8 +66,8 @@ Handles authentication, course management, and real-time enrollment with MongoDB
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/Programming-Hero-Web-Course4/b11a11-server-side-moshiurrahmandeap11.git
-cd b11a11-server-side-moshiurrahmandeap11
+git clone https://github.com/moshiurrahmandeap11/coursion-server
+cd coursion-server
 
 # 2. Install dependencies
 npm install
